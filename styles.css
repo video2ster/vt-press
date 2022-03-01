@@ -1,0 +1,12 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+  margin: 2%;
+}
+header {
+  margin-left: -2%;
+  margin-right: -2%;
+  background: #000;
+  border-bottom: 1px solid #fff;
+}
