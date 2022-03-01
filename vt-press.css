@@ -2,11 +2,13 @@ body {
   background: #222;
   color: #fff;
   font-family: sans-serif;
-  margin: 2%;
+  margin: 25%;
+  margin-top: 0%;
 }
+
 header {
-  margin-left: -2%;
-  margin-right: -2%;
+  margin-left: -25%;
+  margin-right: -25%;
   background: #000;
   border-bottom: 1px solid #fff;
 }
